@@ -5,6 +5,9 @@ Locate McD in an open source application, which is used to know the address loca
 
 Sneap Peak
 -----------
+![Screen 1](https://github.com/pradyumnad/Locate-McD/blob/master/1.png?raw=true)
+![Screen 2](https://github.com/pradyumnad/Locate-McD/blob/master/2.png?raw=true)
+![Screen 3](https://github.com/pradyumnad/Locate-McD/blob/master/3.png?raw=true)
 
 
 Requirements
