@@ -3,6 +3,9 @@ Locate-McD
 
 Locate McD in an open source application, which is used to know the address locations on McD.
 
+Sneap Peak
+-----------
+
 
 Requirements
 ------------
