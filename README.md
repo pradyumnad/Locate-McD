@@ -6,7 +6,7 @@ Locate McD in an open source application, which is used to know the address loca
 
 Requirements
 ------------
-PDSearchHUD requires either iOS 5.0 and above.
+Locate McD requires either iOS 5.0 and above.
 
 Contact
 -------
